@@ -1,6 +1,6 @@
 # numcard
 
-A new Flutter project where you can learn myanmar number with cards
+A new Flutter project where you can learn Myanmar number with cards
 
 ## Getting Started
 
